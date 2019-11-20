@@ -1,6 +1,6 @@
 {
-  "name": "jpduduch.github.io",
-  "version": "1.0.0",
+  "name": "ferrugem.github.io",
+  "version": "0.0.1",
   "description": "",
   "main": "gulpfile.js",
   "bin": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpduduch/jpduduch.github.io.git"
+    "url": "git+https://github.com/devlfernando/ferrugem.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpduduch/jpduduch.github.io/issues"
+    "url": "https://github.com/devlfernando/ferrugem.github.io/issues"
   },
-  "homepage": "https://github.com/jpduduch/jpduduch.github.io#readme",
+  "homepage": "https://github.com/devlfernando/ferrugem.github.io#readme",
   "devDependencies": {
     "jquery": "^3.4.1"
   }
