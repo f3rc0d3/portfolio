@@ -8,6 +8,46 @@ html {
 	font-size: 16px;
 	line-height: 1.5rem;
 }
+
+#menu {
+	top: 0;
+	left: 0;
+}
+
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:transparent;
+    list-style:none;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    background-color:transparent;
+    color: #D6D6D6;
+}
+
+header {
+	position: relative;
+	top: 20%;
+	right: 10%;
+}
+
+header h1 {
+	width: 10%;
+}
+
+header h3 {
+	text-align: left;
+}
+
 @import "custom/fluid";
 
 @import "custom/vars";
