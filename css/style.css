@@ -16,8 +16,6 @@ body {
 }
 
 #container-img-jumb .container {
-    top: 35%;
-    right: 20%;
-    position: absolute;
+    margin-top: 10%;
     color: whitesmoke;
 }
