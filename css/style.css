@@ -1,0 +1,23 @@
+#single-nav {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+#container-img-jumb {
+    background: url("../image/keyboard_space.jpg") no-repeat center center fixed;
+    height: 500px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#container-img-jumb .container {
+    top: 35%;
+    right: 20%;
+    position: absolute;
+    color: whitesmoke;
+}
