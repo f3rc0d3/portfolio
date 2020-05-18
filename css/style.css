@@ -23,3 +23,5 @@ body { background-color: black; }
     margin-top: 5%;
     color: whitesmoke;
 }
+
+#container-cards { visibility: hidden; }
