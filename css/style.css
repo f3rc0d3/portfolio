@@ -1,10 +1,14 @@
-#single-nav {
-    background-color: black;
-}
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
 
-body {
-    background-color: black;
-}
+* { font-family: 'Titillium Web', sans-serif; }
+
+h1 { font-size: 9vw; }
+
+h3 { font-size: 5vw; }
+
+#single-nav { background-color: black; }
+
+body { background-color: black; }
 
 #container-img-jumb {
     background: url("../image/keyboard_space.jpg") no-repeat center center fixed;
@@ -16,6 +20,6 @@ body {
 }
 
 #container-img-jumb .container {
-    margin-top: 10%;
+    margin-top: 5%;
     color: whitesmoke;
 }
